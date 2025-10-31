@@ -65,6 +65,7 @@ The Power BI dashboard provides visual insights such as:
 ## 🧾 Author
 **Ankith**  
 📧 ankithbalda.wk@gmail.com
+
 📘 Project created as part of a Power BI data analysis learning project.
 
 ---
